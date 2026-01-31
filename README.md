@@ -2,8 +2,6 @@
 
 This Python script demonstrates how to manage student records using dictionaries and JSON. It covers creating records, updating and deleting data, looping through entries, saving to a JSON file, and reading data back from the file.
 
-The script is beginner-friendly and showcases core Python concepts like dictionaries, loops, file handling, and JSON serialization.
-
 ## Features
 
 Store student records using a Python dictionary
