@@ -88,10 +88,3 @@ for sid, details in loaded_records.items():
 
 Python 3.x
 (No external libraries required)
-
-
-
-
-Learn JSON file handling in Python
-
-Improve looping and formatted output skills
